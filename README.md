@@ -27,6 +27,7 @@ This is a react-native demo using redux to manage app states.
 - react-native-navbar
 - react-native-modalbox
 - react-native-spinkit
+- redux-persist
 
 ## TODO
 - support android   (doing)
