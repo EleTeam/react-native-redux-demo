@@ -15,7 +15,8 @@ This is a react-native demo using redux to manage app states.
     react-native run-ios
 
 ## ScreenShot
-[[https://github.com/ninty90/react-native-redux-demo/blob/master/screenshots/demo.gif]]
+
+![screenshot](https://github.com/ninty90/react-native-redux-demo/blob/master/screenshots/demo.gif)
 
 
 
