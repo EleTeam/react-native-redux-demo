@@ -1,7 +1,6 @@
 'use strict';
 import React, {
   Component,
-  StyleSheet,
   Text,
   View,
   Platform,
@@ -159,7 +158,6 @@ class LoginPage extends Component{
 
 
 function select(store){
-  //console.log(store);
   return {
     isLoggedIn: store.userStore.isLoggedIn,
     user: store.userStore.user,

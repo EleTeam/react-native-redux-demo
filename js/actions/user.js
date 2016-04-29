@@ -11,6 +11,7 @@ let testUser = {
 	'avatar': 'https://avatars1.githubusercontent.com/u/1439939?v=3&s=460'
 };
 
+// for skip user 
 let skipUser = {
 	'name': 'guest',
 	'age': 20,
